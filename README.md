@@ -31,7 +31,7 @@ The folder HALibrary stores a collection of finite dimensional (weak) C*-Hopf al
 
 The folder Examples contains example notebook files, along with several dictionaries for commonly used fusion categories. 
   The file "CommonlyUsedCommands_HA-FC-RT.nb" gathers commonly used commands;
-  The file "[arXiv:2412.13360]Paraparticles_SFC_Construction.nb" accompanies the paper arXiv:2412.13360.
+  The file "ParaparticlesSFCConstruction.nb" accompanies the paper arXiv:2412.13360.
   
 The package is still at an early stage of development, and will be updated regularly. 
   
