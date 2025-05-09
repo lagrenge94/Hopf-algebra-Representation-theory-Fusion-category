@@ -1,4 +1,4 @@
-# Hopf-algebras-Representation-theory-and-Fusion-categories
+# Hopf-algebra-Representation-theory-Fusion-category
 A Mathematica package developed for mathematical physics research involving Hopf algebras, representation theory, and fusion categories. 
 This package was originally developped to support my research direction in R-parastatistics [Nature 637, 314-318 (2025), arXiv:2412.13360] and Hopf algebra solvable unitary circuits [Phys. Rev. B 111 (10), 104315 (2025)], but can also be used more broadly for studying topological order and generalized symmetry.
 
