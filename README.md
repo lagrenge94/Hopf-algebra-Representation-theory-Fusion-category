@@ -3,9 +3,12 @@ A Mathematica package developed for mathematical physics research involving Hopf
 This package was originally developped to support my research direction in R-parastatistics [Nature 637, 314-318 (2025), arXiv:2412.13360] and Hopf algebra solvable unitary circuits [Phys. Rev. B 111 (10), 104315 (2025)], but can also be used more broadly for studying topological order and generalized symmetry.
 
 The folder Kernel contains all the package files. This includes three core parts:
+
 	HAConstructor.wl: basic tools for finite dimensional Hopf algebras;
+ 
 	RepresentationTheory.wl: basic tools in representation theory, with an emphasis on representation of finite groups and (semi-simple) Hopf algebras;
-  	FusionCategory.wl: basic tools for fusion category, with an emphasis on the category of representations of groups and Hopf algebras.
+  	
+   	FusionCategory.wl: basic tools for fusion category, with an emphasis on the category of representations of groups and Hopf algebras.
 along with several auxiliary parts:
   	AlgebraGenerate.wl: tools for generating an algebraic structure (e.g. groups, algebras, Lie-algebras) from a few given elements;
 	FiniteGroups.wl: tools for studying finite groups--mostly unfinished;
